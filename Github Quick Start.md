@@ -40,7 +40,7 @@ Submitting code to the cloud repository.
 > git push --set-upstream origin your-Alias/filename
 
 # Some good learning documents of Github
-[Github配置及使用](http://t.zoukankan.com/jiaxblog-p-9574441.html"github配置及使用")   
-[Github文档](https://docs.github.com/cn"Github中文文档")  
-[Github docs](https://docs.github.com/en"Github英文文档")  
+[Github配置及使用](http://t.zoukankan.com/jiaxblog-p-9574441.html)   
+[Github文档](https://docs.github.com/cn)  
+[Github docs](https://docs.github.com/en)  
 
