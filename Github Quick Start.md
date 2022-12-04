@@ -19,7 +19,7 @@ View Key
 > vim id_rsa.pub  
 
 Copy the key to the corresponding project on Github to complete the authentication.  
-![](https://github.com/wangyf2001/Azure-picture/blob/main/Github1.jpg)
+![](./images/Github/Github1.jpg)
 
 
 ## 4.Code Upload
