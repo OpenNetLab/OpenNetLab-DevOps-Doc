@@ -3,5 +3,5 @@ This article provides an introductory route to some of the technologies needed t
 ## Github HOW-TO
 [The way to start with Github](./Github-Quick-Start.md)
 ## Azure HOW-TO
-[The way to creat disk in Azure](OpenNetLab-DevOps-Doc/How-to-creat-disk-in-Azure.md)
+[The way to creat disk in Azure](./How-to-creat-disk-in-Azure.md)
 
