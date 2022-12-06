@@ -1,4 +1,4 @@
-# How to creat disk in Azure
+# How To Create Disk In Azure
 
 Step 1, select the virtual machine that you want to add in the resource list 
 
