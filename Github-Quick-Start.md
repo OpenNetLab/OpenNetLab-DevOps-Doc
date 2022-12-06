@@ -6,7 +6,7 @@ Add the link obtained from the corresponding project to copy the project locally
 ## 2.Default Agreement  
 If the command provided in the documentation does not explicitly specify a directory, it means that the command is executed in the directory of the downloaded folder.  
 ## 3.User Settings  
-The download of code in Github does not require authentication, but the upload of code requires authentication, which requires some local configuration.    
+The download of code in Github does not require authentication, but the upload of code requires authentication, which requires some local configuration. You can configure your username and email address with the following command.      
 > git config --global user.name YourUserName  
 > git config --global user.email YourEmail  
 
@@ -19,7 +19,7 @@ View Key
 > vim id_rsa.pub  
 
 Copy the key to the corresponding project on Github to complete the authentication.  
-![](./images/Github/Github1.jpg)
+![](./images/Github/image1.jpg)
 
 
 ## 4.Code Upload
