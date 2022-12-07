@@ -19,7 +19,7 @@ View Key
 > vim id_rsa.pub  
 
 Copy the key to the corresponding project on Github to complete the authentication.  
-![](./images/Github/image1.jpg)
+![](./images/Github/SSH.jpg)
 
 
 ## 4.Code Upload
