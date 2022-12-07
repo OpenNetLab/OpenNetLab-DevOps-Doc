@@ -24,17 +24,17 @@ Step 6, add it successfully
 
 ![](./images/Azure/Right-feedback.png)
 
-Step 7, Formatting the disk
+Step 7, formatting the disk
 
 Use the fdisk-l command to view the disk  
 
 ![](./images/Azure/View-the-disk.png)
 
-Step 8, Format the hard disk file system
+Step 8, format the hard disk file system
 
 > mkfs -t ext4 /dev/sdc
 
-Step 9, Mount the hard drive
+Step 9, mount the hard drive
 
 Create a directory that you want to mount
 
